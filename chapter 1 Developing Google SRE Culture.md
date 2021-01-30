@@ -229,10 +229,12 @@ Areas covered:
 
 Measure Reliability
     Choose good SLIs
+    
 Measure Toil
     Identify it
     select unit of measure
     Track measurement continously 
+    
 Monitoring
     Gain visibility into system
 
