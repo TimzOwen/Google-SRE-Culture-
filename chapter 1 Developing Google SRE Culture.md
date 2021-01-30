@@ -217,4 +217,45 @@ __Emotional response to change__
     Commitment 
     Growth
 
+### Regulating workload
+
+Areas covered:
+
+    Measure Realibilty and Toil
+    Monitoring
+    Goal-setting, Transparency, and data driven decision making
+
+#### Measure everything by qualifying toil and Reliability
+
+Measure Reliability
+    Choose good SLIs
+Measure Toil
+    Identify it
+    select unit of measure
+    Track measurement continously 
+Monitoring
+    Gain visibility into system
+
+__Signals to measure__:
+
+    Latency 
+    Traffic
+    Errors
+    Saturatoin
+
+### Goal Setting , Transparency and Data-based decision Making
+
+Goal Setting
+    use OKR grading  (60-70)
+
+Transparency:
+    how trustwothy you perfom a task and deliver it
+    Have feedback look
+
+Data driven decision making 
+    remove biasness
+    always question impressions
+    make decisions colletively
+
+
 
