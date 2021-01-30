@@ -91,4 +91,70 @@ __Why people blame:
  __Focus on systems and Processes __not__ People__
 
  Innovations require some risk taking 
+ 
+ =================================================================================================latest Commit
+
+### Reducing organizational SILO
+
+There is shared owenership between development and operations team
+
+building pillars:
+
+    Error budgets
+    SLO (Service Level objective)
+
+Reliability = __GoodTime__/__totalTime__ => (__Fraction of the time the service is available and working__)
+
+Realiability (sophisticated approach):
+
+    GoodInteraction/Total interactions => Fractions of users who experience a service working and available
+
+__ERROR BUDGET__ : amount of unreliability you are willing to tolerate
+
+__SLOs__ Precise numerical target for systems 
+
+__SLIs__:(Service-Level Indicators) How well your system is doing at any moment in time
+
+        goodEvents/ValidEvents x 100
+
+        Map to user expectations 
+__SLA__(Serice Level Agreement) : Promise about your health of service ot your customers.
+
+
+### Unifying Vision,Foster Collaboration & Share Knowledge:
+
+SRE Culture Focus:
+
+    Creating a unifed Vision
+        Team Vison statement
+        Support company's vision
+        Values,Purpose,Mission, Strategy ang Goals
+            Values:
+                your response to others
+                your commitment
+                How you spend your time
+                the way you operate as a team
+            Purpose:
+                Explains Why it exists
+                improve life and work satisfaction
+                Reduce conflits
+                Creates greater team connections
+            Mission:
+                This is a clear and compelling goal the team wants to achieve
+            Strategy:
+                This is how your team will realize its mission
+                    can be leverage
+                    can be single initiative
+                    Might require change
+                Building  blocks:
+    Determine what collaboration look like
+    Share knowldge among teams
+
+#### Make tommorow better than today
+
+    Continuos integration/ Continuos Delivery (CI/CD)
+    Canarying
+    Toil
+    Automation
+
 
