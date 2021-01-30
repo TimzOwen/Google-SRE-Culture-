@@ -158,3 +158,64 @@ SRE Culture Focus:
     Automation
 
 
+### CI/CD
+
+CI: Building, Integration, and testing code within development environment
+
+CD: Deploying to production frequently or at the rate the business chooses 
+
+__Software as a Process__: 
+
+    Code 
+    Build
+    Integrate
+    Test
+    Release
+    Deploy 
+    Operate
+
+__Canarying__ : Deployment pattern that allows you to roll out changes or new features to a subset of users
+
+#### Desing Thinking and Prototyping:
+
+Combining creativity and Structure to complex problems
+
+Process:
+
+    Empathize
+    Define
+    Ideate
+    Prototype
+    Test
+
+#### Toil Automation:
+
+Toil are manual and repeatitive work
+
+can lead to slowdown ,precedence, stagnation, low morale , confusion, slow progress, Attrition,breach of Faith 
+
+__Automation__:
+
+    Consistency
+    A platform that works on more systems and quick tasks execution
+    Quicker Resolutions
+    Faster Action
+    Time saving
+
+### Psychology of Change and Resistance
+
+    Navigators
+    Critics
+    Victims
+    Bystanders
+
+__Emotional response to change__
+
+    Denial 
+    Reistance
+    Acceptance
+    Exploration
+    Commitment 
+    Growth
+
+
