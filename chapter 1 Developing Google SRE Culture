@@ -1,1 +1,39 @@
 
+## Site Reliability Engineering 
+#### SRE & DevOPs
+
+__DevOPs__ is a combination on **Developers** + __Operators__
+
+#### Functions of DevOPss
+
+1. Reduce Organization's Silos
+
+2. Accept Failure (Blamelessness)
+
+3. Implement Gradual Change (Deployment velocity)
+
+4. Leverage tooling and automation (Toil automation)
+
+5. Measure everything (measure Toil and Reliability)
+
+__SRE__ :
+
+    The pratice of balacing between velocity of deployment and Reliability Risk
+
+    plays a Role and Practice to maintain and make sure services are running and meeting customer's needs
+    Focus on practices  and technical and practical traditions
+
+### Service Level Objective (SLO)
+
+#### Value of SRE:
+
+__Mission SRE__: To protect,provide for,and progress s/w and systems with consistent focus on availability,
+                latency, perfomance and capacity
+
+#### Accepting Failures as normal with blameless postmoterms 
+
+Be comfortabe with __Failures__
+
+Eliminate ambiguity in __monitoring__
+
+Establish and document __process__
