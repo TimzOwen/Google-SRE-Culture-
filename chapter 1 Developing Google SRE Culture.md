@@ -128,24 +128,29 @@ SRE Culture Focus:
         Team Vison statement
         Support company's vision
         Values,Purpose,Mission, Strategy ang Goals
+        
             Values:
                 your response to others
                 your commitment
                 How you spend your time
                 the way you operate as a team
+                
             Purpose:
                 Explains Why it exists
                 improve life and work satisfaction
                 Reduce conflits
                 Creates greater team connections
+                
             Mission:
                 This is a clear and compelling goal the team wants to achieve
+                
             Strategy:
                 This is how your team will realize its mission
                     can be leverage
                     can be single initiative
                     Might require change
                 Building  blocks:
+                
     Determine what collaboration look like
     Share knowldge among teams
 
@@ -228,14 +233,17 @@ Areas covered:
 #### Measure everything by qualifying toil and Reliability
 
 Measure Reliability
+
     Choose good SLIs
     
 Measure Toil
+
     Identify it
     select unit of measure
     Track measurement continously 
     
 Monitoring
+
     Gain visibility into system
 
 __Signals to measure__:
@@ -248,13 +256,16 @@ __Signals to measure__:
 ### Goal Setting , Transparency and Data-based decision Making
 
 Goal Setting
+
     use OKR grading  (60-70)
 
 Transparency:
+
     how trustwothy you perfom a task and deliver it
     Have feedback look
 
 Data driven decision making 
+
     remove biasness
     always question impressions
     make decisions colletively
