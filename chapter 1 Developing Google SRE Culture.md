@@ -92,8 +92,7 @@ __Why people blame:
 
  Innovations require some risk taking 
  
- =================================================================================================latest Commit
-
+ 
 ### Reducing organizational SILO
 
 There is shared owenership between development and operations team
